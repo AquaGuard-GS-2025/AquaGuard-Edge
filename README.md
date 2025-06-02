@@ -104,9 +104,11 @@ O código no Arduino opera da seguinte forma:
 * Matheus Victorio - RM566447
 * Vinícius Lugli - RM564694
 
-## 9. Link Simulador
+## 9. Links
 
-https://wokwi.com/projects/432680905520811009
+* Wokwi: https://wokwi.com/projects/432680905520811009
+
+* YouTube: https://youtu.be/FHBjba8tQSI
 
 *(Global Solution FIAP - Edge Computing & IoT - [Ano/Semestre])*
 
