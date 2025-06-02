@@ -98,21 +98,15 @@ O código no Arduino opera da seguinte forma:
     * Observe as mudanças na distância exibida no LCD e como os LEDs e o buzzer respondem aos diferentes níveis de alerta definidos no código.
     * Você pode abrir o Monitor Serial (Ctrl+Shift+M) na Arduino IDE (com baud rate 9600) para ver os valores de distância e alerta sendo impressos para debug.
 
-## 8. Possíveis Melhorias Futuras
+## 8. Autores
 
-* Adição de um módulo de cálculo e exibição da **taxa de variação do nível da água** para alertas mais preditivos.
-* Implementação de um botão para **silenciar o buzzer** temporariamente após o reconhecimento do alerta.
-* Interface para **calibração do sensor** e ajuste dos limiares de alerta pelo usuário.
-* Integração com um módulo **ESP8266/ESP32** para conectividade Wi-Fi, permitindo o envio de dados para uma plataforma online ou o recebimento de configurações remotas.
-* Uso de um **display OLED** para uma interface gráfica mais rica ou mais informações.
-* Otimizações para **baixo consumo de energia**, visando alimentação por bateria de longa duração.
-* Design de um **case/invólucro** protetor para o dispositivo.
+* Enzo Dourado - RM565585
+* Matheus Victorio - RM566447
+* Vinícius Lugli - RM564694
 
-## 9. Autores
+## 9. Link Simulador
 
-* [Seu Nome Completo - Seu RM]
-* [Nome do Colega 2 - RM do Colega 2 (se aplicável)]
-* [Nome do Colega 3 - RM do Colega 3 (se aplicável)]
+https://wokwi.com/projects/432680905520811009
 
 *(Global Solution FIAP - Edge Computing & IoT - [Ano/Semestre])*
 
