@@ -42,7 +42,7 @@ As enchentes representam um desafio crítico e recorrente no Brasil, afetando mi
 
 ## 5. Montagem do Circuito
 
-O circuito pode ser montado conforme a imagem de referência (`image_2438fe.png` fornecida). As principais conexões são:
+O circuito pode ser montado conforme a imagem de referência. As principais conexões são:
 
 ![image](https://github.com/user-attachments/assets/0c107a15-508c-4451-9bc4-476fb5678712)
 
